@@ -23,7 +23,7 @@ The total number of data points inside given dataset is 309. There are no missin
 ## Methods
 
 - Explore the dataset
-- Demonstrate the usage of two classification methods in the aformentioned dataset: K-nearest Neighbors algorithm and Logistic Regression (will be introduced in phase 3)
+- Demonstrate the usage of two classification methods in the aformentioned dataset: K-nearest Neighbors algorithm and Logistic Regression
 - Compare two methods to each other
 
 ##  Access to the report `Report.ipynb`
